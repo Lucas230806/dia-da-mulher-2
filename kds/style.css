@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(150, 20, 20);
+}
+header h1{
+    margin-left: 130px;
+    color: white;
+}
+h3{
+    margin-left: 360px;
+}
+ 
+p{
+    color: white;
+    margin-left: 20px
+}
+
+h2{
+    margin-left: 50px;
+}
+
+p{
+    font-style: italic;
+}
+
+main h3{
+margin-right: 140px ;
+}
+
+footer p{
+    margin-left: 460px;
+    color: black;
+}
+
+
+
+
+
+
+
+
